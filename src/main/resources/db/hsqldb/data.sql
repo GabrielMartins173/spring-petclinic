@@ -51,3 +51,11 @@ INSERT INTO visits VALUES (1, 7, '2013-01-01', 'rabies shot');
 INSERT INTO visits VALUES (2, 8, '2013-01-02', 'rabies shot');
 INSERT INTO visits VALUES (3, 8, '2013-01-03', 'neutered');
 INSERT INTO visits VALUES (4, 7, '2013-01-04', 'spayed');
+
+INSERT INTO products VALUES (1, 'Racao do Solsacha');
+INSERT INTO products VALUES (2, 'Cama de Gato');
+INSERT INTO products VALUES (3, 'Bola');
+INSERT INTO products VALUES (4, 'Caixa de Areia');
+INSERT INTO products VALUES (5, 'Coleira do Solsacha');
+INSERT INTO products VALUES (6, 'Casinha do Solsacha');
+INSERT INTO products VALUES (7, 'Cenorinha');
