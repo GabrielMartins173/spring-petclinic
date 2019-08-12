@@ -4,13 +4,14 @@
 
   <body>
 
-    <h2 th:text="#{welcome}">Welcome</h2>
-    <div class="row">
-        <div class="col-md-12">
-          <img class="img-responsive" src="../static/resources/images/pets.png" th:src="@{/resources/images/pets.png}"/>
-        </div>
-    </div>
+    <h2 class="col-md-12 text-center" th:text="#{welcome}">Welcome</h2>
 
+    <div class="row" style="display:block; margin-left:auto; margin-right:auto">
+
+        <div class="col-md-12">
+          <img class="img-responsive" src="../static/resources/images/home.jpg" th:src="@{/resources/images/home.jpg}"/>
+        </div>
+</div>
   </body>
 
 </html>
